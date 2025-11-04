@@ -39,7 +39,7 @@ chat_with_memory = RunnableWithMessageHistory(
     input_messages_key="input",
     history_messages_key="history",
 )
-print("🤖 Groq LLaMA 3 Chatbot ready! Type 'exit' to quit.\n")
+print(" Groq LLaMA 3 Chatbot ready! Type 'exit' to quit.\n")
 session_id = "ishan_session"
 
 while True:
